@@ -1,1 +1,1 @@
-# Dashboard
+# Stars Beyond Admin and player Dashboard
